@@ -1,17 +1,36 @@
-# 니잡내잡
+# 구디아카데미 세미 프로젝트 "니잡내잡"
 
 <br>
 
-구디아카데미 세미 프로젝트(2022.06.27 ~ 2022.08.08 / 42일)
+## 개요
+- 프로젝트 명 : 니JOB 내JOB
+- 개발 인원 : 6명
+- 개발 기간 : 2022.06.27 ~ 2022.08.08(42일)
+- Back-end : Java11, JDBC, JSP
+- Front-end : HTML, CSS, JavaScript, jQuery, Bootstrap4, Gson
+- Server : Apache Tomcat9
+- Database : Oracle
+- Collaboration : GitHub, Jira
+- 목표 : 배웠던 기능을 모두 구현하고 숙달하는 것
 
 <br>
 
+## DB설계
+![image](https://user-images.githubusercontent.com/102468071/187904022-ecb6dfe8-51df-43b5-84f1-be0429af1e44.png)
+![image](https://user-images.githubusercontent.com/102468071/187904052-86a181b0-485f-403f-b436-c636c3ebf6c0.png)
+![image](https://user-images.githubusercontent.com/102468071/187904062-062d0eed-bee8-47d0-9f19-8c913b838b8d.png)
+![image](https://user-images.githubusercontent.com/102468071/187904072-bc51cb24-a989-42fe-ab25-bbdee3d0c19f.png)
+
+<br>
 ## 기획의도
 - 취업에 도움을 주는 온라인 강의 제공
 - 나의 근처에서 만나기 어려운 직무 전문가와 1:1 질문 답변
 - 나와 비슷한 목표를 가진 취업 준비생을 찾아 교류할 수 있는 웹 서비스
 
 <br>
+
+## DB설계
+
 
 ## 프로젝트 목표
 - 그동안 배운 기초적인 기능을 모두 사용하고 숙달하는 것
