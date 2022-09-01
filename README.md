@@ -3,15 +3,15 @@
 <br>
 
 ## 개요
-- **프로젝트 명** : 니JOB 내JOB
-- **개발 인원** : 6명
-- **개발 기간** : 2022.06.27 ~ 2022.08.08(42일)
-- **Back-end** : Java11, JDBC, JSP
-- **Front-end** : HTML, CSS, JavaScript, jQuery, Bootstrap4, Gson
-- **Server** : Apache Tomcat9
-- **Database** : Oracle
-- **Collaboration** : GitHub, Jira
-- **목표** : 배웠던 기능을 모두 구현하고 숙달하는 것
+- **프로젝트 명**  :  니JOB 내JOB
+- **개발 인원**  :  6명
+- **개발 기간**  :  2022.06.27 ~ 2022.08.08(42일)
+- **Back-end**  :  Java11, JDBC, JSP
+- **Front-end**  :  HTML, CSS, JavaScript, jQuery, Bootstrap4, Gson
+- **Server**  :  Apache Tomcat9
+- **Database**  :  Oracle
+- **Collaboration**  :  GitHub, Jira
+- **목표**  :  배웠던 기능을 모두 구현하고 숙달하는 것
 
 <br>
 
