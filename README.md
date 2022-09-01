@@ -16,6 +16,10 @@
 <br>
 
 ## DB설계
+<img src="https://user-images.githubusercontent.com/102468071/187904022-ecb6dfe8-51df-43b5-84f1-be0429af1e44.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/102468071/187904052-86a181b0-485f-403f-b436-c636c3ebf6c0.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/102468071/187904062-062d0eed-bee8-47d0-9f19-8c913b838b8d.png" width="400" height="200" />
+<img src="https://user-images.githubusercontent.com/102468071/187904072-bc51cb24-a989-42fe-ab25-bbdee3d0c19f.png" width="400" height="200" />
 ![image](https://user-images.githubusercontent.com/102468071/187904022-ecb6dfe8-51df-43b5-84f1-be0429af1e44.png)
 ![image](https://user-images.githubusercontent.com/102468071/187904052-86a181b0-485f-403f-b436-c636c3ebf6c0.png)
 ![image](https://user-images.githubusercontent.com/102468071/187904062-062d0eed-bee8-47d0-9f19-8c913b838b8d.png)
